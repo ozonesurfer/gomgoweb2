@@ -12,6 +12,6 @@ go get labix.org/v2/mgo
 
 Add your Git's path to the GOPATH enviroment variable. Then, to build the web server, enter:
 
-go build gomgoweb.go
+go build gomgoweb2.go
 
-You might need more parameters if you're using Linux. To start the server, simply execute the "gomgoweb" command.  
+You might need more parameters if you're using Linux. To start the server, simply execute the "gomgoweb2" command.  
